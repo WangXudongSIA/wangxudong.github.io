@@ -17,7 +17,7 @@ I also serve as ACL Member and the reviewer for several conferences and journals
 
 ## News
 
-- **[Aug. 2025]** One first author paper has been accepted by **IEEE TPAMI (Core A\*, CCF-A)**, thanks for co-authors!
+- **[Aug. 2025]** One first author paper has been accepted by **IEEE TPAMI (Core A\*, CCF-A, Q1)**, thanks for co-authors!
 
 - **[Jun. 2025]** I pass the qualifying exam and become a PhD candidate!
 
