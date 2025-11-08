@@ -18,6 +18,7 @@ I also serve as ACL Member and the reviewer for several conferences and journals
 
 
 ## News
+- **[Nov. 2025]** I join in LV-Lab at NUS as a visiting PhD student!
 
 - **[Aug. 2025]** One first author paper has been accepted by **IEEE TPAMI (Core A\*, CCF-A, Q1)**, thanks for co-authors!
 
