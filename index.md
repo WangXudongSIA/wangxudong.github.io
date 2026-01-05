@@ -32,4 +32,4 @@ I also serve as CAA Member and the reviewer for several conferences and journals
 
 - **[Sept. 2022]** I join in UCAS and become a first-year M.S. student!
 
-%% {% include_relative _includes/publications.md %}
+{% include_relative _includes/publications.md %}
