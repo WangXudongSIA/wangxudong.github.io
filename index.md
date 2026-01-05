@@ -8,7 +8,7 @@ I’m a second-year Ph.D. candidate in Pattern Recognition and Intelligent Syste
 
 My research focuses on **Robotic Learning**, **Embodied AI**, and **Computer Vision**.
 
-I also serve as CAA Member and the reviewer for several conferences and journals such as ICLR, NeurIPS, CVPR, ICCV, ACM MM, AAAI and TIP, TCYB, TNNLS, TII, RAL.
+I also serve as CAA, AAAI Member and the reviewer for several conferences and journals such as ICLR, NeurIPS, CVPR, ICCV, ACM MM, AAAI and TIP, TCYB, TNNLS, TII, RAL.
 
 ## News
 
