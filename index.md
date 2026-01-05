@@ -31,5 +31,3 @@ I also serve as CAA Member and the reviewer for several conferences and journals
 - **[Jun. 2023]** One first-author paper about **Robotic Harsh Environment Perception** has been accepted by **ICIRA 2023 (Oral Presentation)**, thanks for co-authors!
 
 - **[Sept. 2022]** I join in UCAS and become a first-year M.S. student!
-
-{% include_relative _includes/publications.md %}
