@@ -32,7 +32,7 @@ I also serve as CAA, AAAI Member and the reviewer for several conferences and jo
 
 - **[Sept. 2022]** I join in UCAS and become a first-year M.S. student!
 
-- ## Selected Publications
+## Selected Publications
 
 - **Xudong Wang***, Zebin Han*, Zhiyu Liu, Gan Li, Jiahua Dong, Baichen Liu, Lianqing Liu, Zhi Han#. Lifelong Language-Conditioned Robotic Manipulation Learning. AAAI Conference on Artificial Intelligence, 2026.
 
